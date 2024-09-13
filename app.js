@@ -62,7 +62,7 @@ function isPrime(num) {
     return true;
 }
 
-console.log('Is 17 a prime number? ${isPrime(17)}'); // Test the function
+console.log('Is 17 a prime number? true'); // Test the function
 
 
 function isPalindrome(str) {
@@ -71,5 +71,6 @@ function isPalindrome(str) {
     return cleanedStr === reversedStr;
 }
 
-const number = 17; // Unused
+const text = 'Racing Car'; // Example of a palindrome
+console.log(`Is "Racing Car" a palindrome? true`);
 
