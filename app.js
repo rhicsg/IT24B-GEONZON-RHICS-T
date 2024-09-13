@@ -62,7 +62,7 @@ function isPrime(num) {
     return true;
 }
 
-console.log(isPrime(17)); // Test the function
+console.log('Is 17 a prime number? ${isPrime(17)}'); // Test the function
 
 
 function isPalindrome(str) {
