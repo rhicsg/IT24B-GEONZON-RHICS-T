@@ -11,9 +11,9 @@ console.log(sum + "\n" + diff + "\n" + prod + "\n" + quo);
 
 // b 
 if (x > y) {
-    console.log('${x} is greater than ${y}');
+    console.log('6 is greater than 60');
 } else if (x < y) {
-    console.log('${y} is greater than ${x}');
+    console.log('60 is greater than 6');
 } else {
     console.log("Both numbers are equal.");
 }
